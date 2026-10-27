@@ -1,0 +1,156 @@
+{
+  "voices": {
+    "ar": {
+      "id": "w0uhBAmNIG5kUDeaFEsA",
+      "name": "Maryam Essa - Kuwaiti Calm & Warm",
+      "language": "ar"
+    }
+  },
+  "model": "eleven_v4",
+  "settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.8,
+    "style": 0.2
+  },
+  "note": "Copied from the math quiz (same text, same hash): this quiz records nothing new.",
+  "clips": {
+    "ar/n/4": {
+      "text": "أربعة.",
+      "hash": "a693a9d2f7a5bebd",
+      "durationMs": 800,
+      "bytes": 6939
+    },
+    "ar/ui/cheer-1": {
+      "text": "كفو!",
+      "hash": "691bf115203a21a3",
+      "durationMs": 853,
+      "bytes": 7357
+    },
+    "ar/ui/cheer-10": {
+      "text": "يا سلام! صح.",
+      "hash": "17f84e5b28b69139",
+      "durationMs": 1973,
+      "bytes": 16343
+    },
+    "ar/ui/cheer-2": {
+      "text": "ما شاء الله! صح.",
+      "hash": "1b1894ccde64e863",
+      "durationMs": 1970,
+      "bytes": 16343
+    },
+    "ar/ui/cheer-3": {
+      "text": "واو! جواب صح!",
+      "hash": "16f0fbe7ad477eed",
+      "durationMs": 1974,
+      "bytes": 16343
+    },
+    "ar/ui/cheer-4": {
+      "text": "برافو! جواب ممتاز.",
+      "hash": "437f5c27a4682f59",
+      "durationMs": 2319,
+      "bytes": 19060
+    },
+    "ar/ui/cheer-5": {
+      "text": "الله! جواب حلو.",
+      "hash": "a48a02c8b261ade5",
+      "durationMs": 2320,
+      "bytes": 19060
+    },
+    "ar/ui/cheer-6": {
+      "text": "تمام التمام!",
+      "hash": "77721d814b803515",
+      "durationMs": 1467,
+      "bytes": 12372
+    },
+    "ar/ui/cheer-7": {
+      "text": "عفية!",
+      "hash": "6d5a1f332f83e757",
+      "durationMs": 880,
+      "bytes": 7566
+    },
+    "ar/ui/cheer-8": {
+      "text": "صح! رائع.",
+      "hash": "262f0d5ca76615db",
+      "durationMs": 1615,
+      "bytes": 13417
+    },
+    "ar/ui/cheer-9": {
+      "text": "زين! جواب صحيح.",
+      "hash": "3f6e49f04141b8b2",
+      "durationMs": 1975,
+      "bytes": 16343
+    },
+    "ar/ui/count-is": {
+      "text": "العدد",
+      "hash": "fed853deaa10a2d7",
+      "durationMs": 881,
+      "bytes": 7566
+    },
+    "ar/ui/done-good": {
+      "text": "حلو! نتدرب مرة ثانية… ونصير أقوى.",
+      "hash": "be2db2a4ee1406f1",
+      "durationMs": 3680,
+      "bytes": 29927
+    },
+    "ar/ui/done-great": {
+      "text": "واو! نتيجة رائعة!",
+      "hash": "cfb4757f5a4bcbf0",
+      "durationMs": 2561,
+      "bytes": 21149
+    },
+    "ar/ui/match-wrong": {
+      "text": "لا… نجرب مرة ثانية.",
+      "hash": "3f7a6fadd8f0f515",
+      "durationMs": 2351,
+      "bytes": 19269
+    },
+    "ar/ui/retry-1": {
+      "text": "مو مشكلة… الجواب الصح…",
+      "hash": "d4023bc2a9fb4b51",
+      "durationMs": 2559,
+      "bytes": 20940
+    },
+    "ar/ui/retry-2": {
+      "text": "قربنا! الجواب الصح…",
+      "hash": "dc437e4238565bf1",
+      "durationMs": 2304,
+      "bytes": 19060
+    },
+    "ar/ui/retry-3": {
+      "text": "خلنا نتعلمها مع بعض… الجواب الصح…",
+      "hash": "74cf9656fe83d22c",
+      "durationMs": 3286,
+      "bytes": 26792
+    },
+    "ar/ui/retry-4": {
+      "text": "محاولة حلوة! الجواب الصح…",
+      "hash": "63bdc19efb1ddd10",
+      "durationMs": 2802,
+      "bytes": 23030
+    },
+    "ar/ui/retry-5": {
+      "text": "نشوف مع بعض… الجواب الصح…",
+      "hash": "3a627ddb334b0d79",
+      "durationMs": 2656,
+      "bytes": 21776
+    },
+    "ar/ui/review": {
+      "text": "خلنا نتذكر مع بعض…",
+      "hash": "761c595d8d556cdc",
+      "durationMs": 1766,
+      "bytes": 14671
+    },
+    "ar/ui/test-intro": {
+      "text": "هذا اختبار تجريبي… فيه أسئلة من كل الدروس. يلا نبدأ!",
+      "hash": "dc1d19349831fa74",
+      "durationMs": 5065,
+      "bytes": 41003
+    },
+    "ar/ui/welcome": {
+      "text": "هلا! نختار درس ونبدأ.",
+      "hash": "6f0e1e0d8271b73e",
+      "durationMs": 2550,
+      "bytes": 20940
+    }
+  }
+}

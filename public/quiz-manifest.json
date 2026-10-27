@@ -1,0 +1,23 @@
+{
+  "id": "social-grade1",
+  "quizId": "social-grade1",
+  "title": "الاجتماعيات - الأول الابتدائي",
+  "description": "اختبار تدريبي للاختبار الأول في الاجتماعيات (كتاب وطني ١) للصف الأول: أمير وطني، بيتي في وطني، علم وطني.",
+  "recommendedAge": "5–7",
+  "basePath": "/social-grade1-quiz/",
+  "questionsPerRound": 8,
+  "testQuestions": 12,
+  "topics": [
+    "amir",
+    "home",
+    "flag"
+  ],
+  "capabilities": {
+    "audio": true,
+    "adaptive": true,
+    "progress": true,
+    "answerReview": true,
+    "challenge": false
+  },
+  "version": "1.0.0"
+}
