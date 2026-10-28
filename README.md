@@ -17,7 +17,8 @@ cheers, kind words, test intro and results are Maryam's clips copied from the ma
 The two portraits in `public/photos/` are the official portraits printed at the front of the book.
 
 ## Status
-Preview only (27 October 2026): not published, not connected to the Hub, not assigned to any account.
+Published 28 October 2026 at https://haya-nt3lm.com/social-grade1-quiz/ and registered in the Hub (migration 022).
+Not assigned to any account.
 
 ## Development
 ```bash
